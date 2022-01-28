@@ -20,6 +20,6 @@ This are the resources is created for this project
 Azure Bot Service are use to create AI Bot .
 by using Web hosting services provided by azure we can host bot on web.
 
-### Video URL : 
+### Video URL : https://youtu.be/ictolPqxE5A
 
 ##🙏🙏Develop By : Rahul Rale🙏🙏
