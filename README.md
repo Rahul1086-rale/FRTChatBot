@@ -9,6 +9,14 @@ Service are used :
 Using Azure Service in Student pack I build this Interesting Project.
 This Chat bot help you. You can ask question to bot. bot will give you reply.
 
+### Project URL : https://chatbotservice.azurewebsites.net/
+
+![Screenshot 2022-01-28 111127](https://user-images.githubusercontent.com/84489118/151493797-c5ea2df7-8066-4324-9d22-02e36189d730.jpg)
+
+This are the resources is created for this project 
+
+![image](https://user-images.githubusercontent.com/84489118/151494031-91f5eb18-8927-4b1b-bbbc-a2267b799a3a.png)
+
 
 
 ##🙏🙏Develop By : Rahul Rale🙏🙏
