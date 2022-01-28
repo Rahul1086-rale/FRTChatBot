@@ -3,8 +3,19 @@ Future Ready Talent Internship Project
 
 This Project is part of Internship.In this project Azure Services like QnA Maker, WebApp Service is used. 
 Service are used :
-#### 1) WebApp : Using Azure web app service webbotapp this website is create. ASP.NET programmming language is used to make this website. 
+#### 1) WebApp : Using Azure web app service webbotapp this website is create.
+##### To create Azure Web App :
+  1) click on all services
+  2) select App Service. create page appear
+  3) fill all the details on this page and click create and review. and then create
+  4) the deployment page is appears. after completion of deployment .click on go to resourse.
+  5) above page is appear. you can check your apps settings.
+![image](https://user-images.githubusercontent.com/84489118/151497663-d340849b-9c76-4a3a-90d2-af0e82f822ac.png)
+
+  ASP.NET programmming language is used to make this website. 
 #### 2) QnA maker & WebBot : Using Azure QnA service and WEbBot service Web Bot is Created
+![image](https://user-images.githubusercontent.com/84489118/151497755-3a8ef243-af6c-4823-973e-6ec0ad9c9ffb.png)
+
 #### 3) using embed code webbot is shown on website.
 Using Azure Service in Student pack I build this Interesting Project.
 This Chat bot help you. You can ask question to bot. bot will give you reply.
