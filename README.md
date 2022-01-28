@@ -21,7 +21,13 @@ Using Azure Service in Student pack I build this Interesting Project.
 This Chat bot help you. You can ask question to bot. bot will give you reply.
 
 ### Project URL : https://chatbotservice.azurewebsites.net/
-
+#### Using :
+  1) Click on above url
+  2) Home page is appears. (note : You need high internet speed. if home page like below is not appear. try website using another browser. or check your speed.)
+  3) On home You will get Hello & Welcome message from Bot.
+  4) after that you can chat with bot.
+  
+`
 ![Screenshot 2022-01-28 111127](https://user-images.githubusercontent.com/84489118/151493797-c5ea2df7-8066-4324-9d22-02e36189d730.jpg)
 
 This are the resources is created for this project 
