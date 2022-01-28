@@ -11,6 +11,8 @@ Service are used :
   4) the deployment page is appears. after completion of deployment .click on go to resourse.
   5) above page is appear. you can check your apps settings.
 ![image](https://user-images.githubusercontent.com/84489118/151497663-d340849b-9c76-4a3a-90d2-af0e82f822ac.png)
+![image](https://user-images.githubusercontent.com/84489118/151501332-28503db8-6cd4-4111-920a-04770b1c0c33.png)
+if your are getting above error please check your internet speed or wait for some time. or use another browser.
 
   ASP.NET programmming language is used to make this website. 
 #### 2) QnA maker & WebBot : Using Azure QnA service and WEbBot service Web Bot is Created
